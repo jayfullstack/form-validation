@@ -8,3 +8,7 @@ For the purposes of this project,
 User data was captured to display in a console.log.
 
 In the real world, this data will be sent somewhere through a server and handled by some backend functionality for storage.
+
+Github pages link:
+
+https://jayfullstack.github.io/form-validation/
